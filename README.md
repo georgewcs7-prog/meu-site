@@ -1,45 +1,44 @@
-# 🌐 Portfólio Pessoal
+# 🚀 Portfólio - George Willian
 
-Este é o meu portfólio desenvolvido para apresentar meus projetos, habilidades e evolução na área de Tecnologia da Informação.
+Este é o meu portfólio pessoal, desenvolvido para apresentar minha trajetória, habilidades e evolução na área de Tecnologia da Informação.
 
-## 🚀 Sobre
+## 👨‍💻 Sobre mim
 
-Este projeto foi criado com o objetivo de servir como vitrine profissional, demonstrando na prática meus conhecimentos em desenvolvimento web.
+Olá! Me chamo George Willian, tenho 33 anos e sou estudante de desenvolvimento de software.
+Tenho grande interesse em tecnologia e programação, e estou em constante evolução para me tornar um desenvolvedor e criar soluções que impactem positivamente a vida das pessoas.
 
-## 🛠️ Tecnologias
+## 🌐 Acesse o projeto
+
+👉 https://georgewcs7-prog.github.io/meu-site/
+
+## 🛠️ Tecnologias utilizadas
 
 * HTML5
 * CSS3
 
-## 📸 Preview
+## 🎯 Objetivo do projeto
 
-(Coloque aqui um print do seu site depois)
+* Criar um portfólio profissional
+* Apresentar minhas habilidades
+* Compartilhar minha evolução na área de TI
 
-## 🔗 Acesse o site
+## 📸 Preview do site
 
-👉 https://georgewcs7-prog.github.io/meu-site/
-
-## 📂 Estrutura do projeto
-
-* `index.html` → Estrutura principal do site
-
-## 🎯 Objetivos
-
-* Praticar desenvolvimento web
-* Criar presença online profissional
-* Mostrar meus projetos
+*(adicione aqui um print do seu site)*
 
 ## 📈 Próximas melhorias
 
-* Adicionar JavaScript
-* Melhorar o design e responsividade
-* Incluir novos projetos
+* Adicionar JavaScript para interatividade
+* Criar seção de projetos
+* Melhorar responsividade (mobile)
+* Implementar animações
 
 ## 📫 Contato
 
-* LinkedIn: (coloque aqui)
+* LinkedIn: (www.linkedin.com/in/george-sampara)
 * GitHub: https://github.com/georgewcs7-prog
 
 ---
 
-💻 Desenvolvido por George
+💻 Desenvolvido por George Willian
+
