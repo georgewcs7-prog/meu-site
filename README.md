@@ -40,5 +40,5 @@ Tenho grande interesse em tecnologia e programação, e estou em constante evolu
 
 ---
 
-💻 Desenvolvido por George Willian
+💻 Desenvolvido por George Willian    
 
