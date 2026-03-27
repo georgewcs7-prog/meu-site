@@ -24,7 +24,7 @@ Tenho grande interesse em tecnologia e programação, e estou em constante evolu
 
 ## 📸 Preview do site
 
-*(adicione aqui um print do seu site)*
+![Preview do site](Meu site print.png)
 
 ## 📈 Próximas melhorias
 
